@@ -1,5 +1,5 @@
 # Fractal-Pattern-Embroidery
-I wrote a software that will generate an embroidery file to be produced using an automated embroidery machine. An embroidery JEF file was generated directly, without the use of any additional software libraries. I wrote code for beutiful fractal pattern - snowflake
+I wrote a software to generate an embroidery file to be produced using an automated embroidery machine. An embroidery JEF file was generated directly, without the use of any additional software libraries. I wrote code for beautiful fractal pattern - snowflake
 
 Link to the amazing video in process: https://youtu.be/dyOq3c6iz90
 
